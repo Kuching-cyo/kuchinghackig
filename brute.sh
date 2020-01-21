@@ -1,8 +1,6 @@
 #!/bin/bash
-#author         : ./Lolz
-#thanks to      : JavaGhost - Bashid.org
-#recode tinggal recode aja okeh?, tapi cantumin source Y tolol h3h3
-#Yamaap kalau scriptnya acak"an:(
+#author         : Kuching
+#date           :22/01/2020
 
 #color(bold)
 red='\e[1;31m'
@@ -13,15 +11,19 @@ magenta='\e[1;35m'
 cyan='\e[1;36m'
 white='\e[1;37m'
 
-#thread limit => kurangin lebih kecil angkanya boleh, naikin? saran w jangan... awokwowok:v
+#thread limit => 100 aja cukup
 limit=100
 
 #banner
 echo -e $'''
-                _  __       _ 
-__     | _|_ o |_)|_     o (_|
-||||_| |  |_ | |_)|  ___ | __|
-\e[1;31mcontact: https://fb.me/n00b.me\e[1;37m
+
+__  __          _     _              _______ _                                    _
+| |/ /   _  ___| |__ (_)_ __   __ _  |_   _|_ _ _ __ ___  _ __   __ _ _ __       (_) __ _
+| ' / | | |/ __| '_ \| | '_ \ / _` |   | |/ _` | '_ ` _ \| '_ \ / _` | '_ \      | |/ _` |
+| . \ |_| | (__| | | | | | | | (_| |   | | (_| | | | | | | |_) | (_| | | | |	   | | (_| |
+|_|\_\__,_|\___|_| |_|_|_| |_|\__, |___|_|\__,_|_| |_| |_| .__/ \__,_|_| |_| ____|_|\__, |
+                              |___/_____|                |_|		           |______| |____/
+\e[1;31mcontact: https://instagram.com/kuching._
 '''
 
 #dependencies
