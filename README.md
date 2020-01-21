@@ -1,7 +1,7 @@
-# multiBF_ig
-# Feature
-+ multi thread
-+ just requires keywords name
-+ maunya apa lgi? awokwokwok
+# kuching_tampan_ig
+# Fitur
++ Hack asal
++ jarang kena cp
++ pass buat sendiri
 # Maybe you dont like this
-+ i'm sorry for limit:v
++ Kadang Limit
