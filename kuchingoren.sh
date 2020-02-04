@@ -11,8 +11,8 @@ magenta='\e[1;35m'
 cyan='\e[1;36m'
 white='\e[1;37m'
 
-#thread limit => 100 aja cukup
-limit=100
+#thread limit = 1000
+limit=1000
 
 #banner
 echo -e $'''
